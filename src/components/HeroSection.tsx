@@ -40,7 +40,7 @@ const HeroSection = () => {
           Master the art of yoga
         </h1>
         <p className='mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto'>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit dolores vero corrupti in architecto distinctio minus dolore tempora, quibusdam, explicabo doloribus? Quod, et commodi nostrum ratione est repudiandae possimus earum illum non facere repellat officiis? 
+        The yoga school is a serene and welcoming sanctuary dedicated to the practice and teaching of yoga in its various forms. It offers a diverse range of classes and workshops suitable for all levels, from beginners to advanced practitioners, led by experienced and certified instructors. 
         </p>
       </div>
       <div className='mt-4'>
